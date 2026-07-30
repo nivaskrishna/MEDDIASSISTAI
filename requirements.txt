@@ -10,3 +10,7 @@ sqlalchemy
 aiosqlite
 greenlet
 pillow
+fastapi
+uvicorn
+motor
+pymongo

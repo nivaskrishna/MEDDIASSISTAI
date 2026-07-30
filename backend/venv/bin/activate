@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/sunnyroyal/Desktop/health/mediassist-ai/backend/venv"
+VIRTUAL_ENV="/Users/sunnyroyal/Desktop/health/mediassist-ai/MEDDIASSISTAI/backend/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

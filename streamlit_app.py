@@ -95,14 +95,21 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+import concurrent.futures
+
 # Helper for async execution in Streamlit
 def run_async(coro):
     try:
-        loop = asyncio.get_event_loop()
+        loop = asyncio.get_running_loop()
     except RuntimeError:
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-    return loop.run_until_complete(coro)
+        loop = None
+
+    if loop and loop.is_running():
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
+            return pool.submit(asyncio.run, coro).result()
+    else:
+        return asyncio.run(coro)
+
 
 # Health Quotes
 HEALTH_QUOTES = [
