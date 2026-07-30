@@ -19,3 +19,4 @@ dist/
 .DS_Store
 backend/app/data/image_cache/
 
+.vercel
