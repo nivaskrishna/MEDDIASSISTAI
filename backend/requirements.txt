@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+asyncpg
+alembic
+google-genai
+httpx
+python-dotenv
+aiosqlite
+greenlet
+# MongoDB Atlas (Phase 4 — chat history & saved diagnoses)
+motor
+pymongo

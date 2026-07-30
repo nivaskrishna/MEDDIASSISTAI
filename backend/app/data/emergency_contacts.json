@@ -1,0 +1,158 @@
+[
+  {
+    "name": "All-in-One Emergency",
+    "number": "112",
+    "description": "Single emergency number — Police, Fire & Ambulance (DoT).",
+    "category": "critical"
+  },
+  {
+    "name": "Police",
+    "number": "100",
+    "description": "Police control room.",
+    "category": "police"
+  },
+  {
+    "name": "Fire & Rescue",
+    "number": "101",
+    "description": "Fire brigade and rescue services.",
+    "category": "fire"
+  },
+  {
+    "name": "Ambulance",
+    "number": "102",
+    "description": "Ambulance service for medical emergencies.",
+    "category": "medical"
+  },
+  {
+    "name": "Traffic Police",
+    "number": "103",
+    "description": "Traffic police helpline.",
+    "category": "police"
+  },
+  {
+    "name": "State Health Helpline",
+    "number": "104",
+    "description": "State level helpline for health queries.",
+    "category": "medical"
+  },
+  {
+    "name": "Disaster Management",
+    "number": "108",
+    "description": "Disaster management and medical helpline.",
+    "category": "disaster"
+  },
+  {
+    "name": "Railway Enquiry",
+    "number": "139",
+    "description": "Railway emergency and enquiry.",
+    "category": "other"
+  },
+  {
+    "name": "Women Helpline",
+    "number": "181",
+    "description": "Domestic abuse and sexual violence — Women's helpline.",
+    "category": "women"
+  },
+  {
+    "name": "Anti-Corruption",
+    "number": "1031",
+    "description": "Anti-corruption helpline.",
+    "category": "other"
+  },
+  {
+    "name": "Highway Relief",
+    "number": "1033",
+    "description": "Emergency relief centre on national highways.",
+    "category": "disaster"
+  },
+  {
+    "name": "Anti-Poison",
+    "number": "1066",
+    "description": "Poison control and anti-poison helpline.",
+    "category": "medical"
+  },
+  {
+    "name": "Air Accident",
+    "number": "1071",
+    "description": "Air accident emergency helpline.",
+    "category": "disaster"
+  },
+  {
+    "name": "Train Accident",
+    "number": "1072",
+    "description": "Train accident emergency helpline.",
+    "category": "disaster"
+  },
+  {
+    "name": "Road Accident",
+    "number": "1073",
+    "description": "Road accident and traffic help line.",
+    "category": "disaster"
+  },
+  {
+    "name": "Anti-Terror Alert",
+    "number": "1090",
+    "description": "Anti-terror helpline and alert — all India.",
+    "category": "police"
+  },
+  {
+    "name": "Women in Distress",
+    "number": "1091",
+    "description": "Women helpline in distress.",
+    "category": "women"
+  },
+  {
+    "name": "Earthquake Helpline",
+    "number": "1092",
+    "description": "Earthquake help line service.",
+    "category": "disaster"
+  },
+  {
+    "name": "Natural Disaster",
+    "number": "1096",
+    "description": "Natural disaster control room.",
+    "category": "disaster"
+  },
+  {
+    "name": "AIDS Helpline",
+    "number": "1097",
+    "description": "HIV/AIDS information and support.",
+    "category": "medical"
+  },
+  {
+    "name": "Child Abuse Hotline",
+    "number": "1098",
+    "description": "Children in need of care and protection.",
+    "category": "women"
+  },
+  {
+    "name": "Accident & Trauma",
+    "number": "1099",
+    "description": "Central accident and trauma services.",
+    "category": "medical"
+  },
+  {
+    "name": "LPG Emergency",
+    "number": "1906",
+    "description": "LPG gas leak emergency helpline.",
+    "category": "disaster"
+  },
+  {
+    "name": "Blood Bank",
+    "number": "1910",
+    "description": "Blood bank information and emergency blood.",
+    "category": "medical"
+  },
+  {
+    "name": "Eye Donation",
+    "number": "1919",
+    "description": "Eye donation and eye bank information service.",
+    "category": "medical"
+  },
+  {
+    "name": "Consumer Helpline",
+    "number": "1800-11-4000",
+    "description": "National consumer helpline for complaints.",
+    "category": "other"
+  }
+]

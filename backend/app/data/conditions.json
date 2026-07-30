@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 1,
+    "condition": "First-degree Burn",
+    "symptoms": [
+      "Redness",
+      "Pain",
+      "Minor swelling"
+    ],
+    "firstAid": "Cool the burn under cool (not cold) running water for 10-15 minutes. Apply aloe vera.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing cooling a minor body part burn under clean running water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 2,
+    "condition": "Second-degree Burn",
+    "symptoms": [
+      "Blisters",
+      "Deep redness",
+      "Pain",
+      "Swelling"
+    ],
+    "firstAid": "Cool the burn. Do not break blisters. Loosely cover with a sterile, non-stick bandage.",
+    "severity": "Medium",
+    "doctorType": "Dermatologist",
+    "imagePrompt": "Medical first aid illustration showing a sterile non-stick bandage loosely covered over a body part burn, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 3,
+    "condition": "Third-degree Burn",
+    "symptoms": [
+      "Charred skin",
+      "White/leathery skin",
+      "Numbness"
+    ],
+    "firstAid": "Call emergency immediately. Do not remove stuck clothing. Cover loosely with sterile cloth.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing emergency rescue blankets and sterile dressing for a severe body part burn, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 4,
+    "condition": "Sprained Ankle",
+    "symptoms": [
+      "Swelling",
+      "Pain",
+      "Bruising",
+      "Inability to bear weight"
+    ],
+    "firstAid": "Rest, Ice, Compression, Elevation (R.I.C.E.). Avoid putting weight on it.",
+    "severity": "Low",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing rest, ice, compression, and elevation (RICE) for a sprained ankle, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 5,
+    "condition": "Broken Arm",
+    "symptoms": [
+      "Severe pain",
+      "Deformity",
+      "Swelling",
+      "Inability to move"
+    ],
+    "firstAid": "Immobilize the arm with a splint or sling. Apply ice pack wrapped in cloth. Seek medical help.",
+    "severity": "High",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing immobilization of an injured arm using a splint and sling, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 6,
+    "condition": "Broken Leg",
+    "symptoms": [
+      "Severe pain",
+      "Deformity",
+      "Swelling",
+      "Inability to stand or bear weight"
+    ],
+    "firstAid": "Immobilize the leg using splints. Keep completely still. Call emergency for transport.",
+    "severity": "High",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing immobilization of an injured leg using leg splints, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 7,
+    "condition": "Heart Attack",
+    "symptoms": [
+      "Chest pain",
+      "Shortness of breath",
+      "Cold sweat",
+      "Nausea",
+      "Pain in arm/jaw"
+    ],
+    "firstAid": "Call ambulance immediately. Have the person sit down, rest, and keep calm. Loosen tight clothing. If conscious and not allergic, give aspirin.",
+    "severity": "Critical",
+    "doctorType": "Cardiologist",
+    "imagePrompt": "Medical first aid illustration showing a person with chest pain sitting down, loosening collar, and chewing an aspirin tablet, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 8,
+    "condition": "Stroke",
+    "symptoms": [
+      "Face drooping",
+      "Arm weakness",
+      "Speech difficulty",
+      "Sudden numbness"
+    ],
+    "firstAid": "F.A.S.T. (Face, Arms, Speech, Time). Call emergency immediately. Note the time symptoms started.",
+    "severity": "Critical",
+    "doctorType": "Neurologist",
+    "imagePrompt": "Medical stroke assessment infographic demonstrating Face drooping, Arm weakness, and Speech difficulty checks, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 9,
+    "condition": "Asthma Attack",
+    "symptoms": [
+      "Severe shortness of breath",
+      "Chest tightness",
+      "Wheezing",
+      "Coughing"
+    ],
+    "firstAid": "Sit the person upright. Help them use their inhaler (blue reliever). Call emergency if it doesn't improve in 5 minutes.",
+    "severity": "High",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person sitting upright and using a blue asthma rescue inhaler puff, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 10,
+    "condition": "Severe Allergic Reaction (Anaphylaxis)",
+    "symptoms": [
+      "Swelling of face/throat",
+      "Difficulty breathing",
+      "Hives",
+      "Dizziness"
+    ],
+    "firstAid": "Administer epinephrine auto-injector (EpiPen) if available. Call emergency immediately. Lay them flat.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing administration of an epinephrine auto-injector EpiPen in the outer thigh, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 11,
+    "condition": "Mild Cut/Laceration",
+    "symptoms": [
+      "Bleeding",
+      "Pain at the site"
+    ],
+    "firstAid": "Wash hands. Stop bleeding with gentle pressure. Clean with water. Apply antibiotic ointment and a bandage.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing washing hands and applying an adhesive bandage to a minor cut on body part, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 12,
+    "condition": "Deep Cut/Laceration",
+    "symptoms": [
+      "Heavy bleeding",
+      "Gaping wound",
+      "Exposed fat/muscle"
+    ],
+    "firstAid": "Apply firm, direct pressure with a clean cloth. Do not remove object if impaled. Seek emergency care.",
+    "severity": "High",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing sterile gauze applying firm direct pressure to a bleeding wound on body part, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 13,
+    "condition": "Snake Bite",
+    "symptoms": [
+      "Puncture marks",
+      "Pain",
+      "Swelling",
+      "Nausea",
+      "Breathing difficulty"
+    ],
+    "firstAid": "Keep the person calm and still. Keep the bite area below heart level. Remove tight clothing/jewelry. Do NOT suck venom or apply tourniquet. Call emergency.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a snake bite puncture wound on body part kept immobilized below heart level, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 14,
+    "condition": "Dog Bite",
+    "symptoms": [
+      "Puncture wound",
+      "Bleeding",
+      "Pain"
+    ],
+    "firstAid": "Wash wound gently with soap and water. Apply pressure to stop bleeding. Apply sterile bandage. See a doctor for rabies/tetanus evaluation.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing gentle washing of a dog bite wound on body part with soap and water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 15,
+    "condition": "Heat Stroke",
+    "symptoms": [
+      "High body temperature",
+      "Hot/dry skin",
+      "Confusion",
+      "Unconsciousness"
+    ],
+    "firstAid": "Call emergency. Move to a cool place. Cool the person rapidly with water, ice packs, or wet towels. Do not give fluids to drink.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a person being cooled with wet towels and ice packs, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 16,
+    "condition": "Heat Exhaustion",
+    "symptoms": [
+      "Heavy sweating",
+      "Weakness",
+      "Dizziness",
+      "Nausea",
+      "Headache"
+    ],
+    "firstAid": "Move to a cooler place. Loosen clothing. Sip cool water. Seek medical help if symptoms worsen or last > 1 hour.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting in a cool shadow and sipping water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 17,
+    "condition": "Hypothermia",
+    "symptoms": [
+      "Shivering",
+      "Slurred speech",
+      "Slow breathing",
+      "Confusion"
+    ],
+    "firstAid": "Move gently to a warm place. Remove wet clothing. Warm the center of the body first with blankets. Give warm beverages if conscious.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a person wrapped in warm blankets sipping warm tea, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 18,
+    "condition": "Frostbite",
+    "symptoms": [
+      "Cold skin",
+      "Prickling feeling",
+      "Numbness",
+      "Discolored skin (white/gray/yellow)"
+    ],
+    "firstAid": "Get into a warm room. Soak in warm (not hot) water. Do not rub the affected area. Seek medical attention.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing frozen frostbitten fingers being warmed in warm water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 19,
+    "condition": "Seizure",
+    "symptoms": [
+      "Uncontrollable jerking movements",
+      "Loss of awareness",
+      "Confusion"
+    ],
+    "firstAid": "Keep them safe from injury. Cushion their head. Loosen tight clothing around neck. Turn on side. Do NOT put anything in mouth. Time the seizure.",
+    "severity": "High",
+    "doctorType": "Neurologist",
+    "imagePrompt": "Medical first aid illustration showing a person on their side with a pillow under their head during a seizure, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 20,
+    "condition": "Poisoning",
+    "symptoms": [
+      "Nausea/Vomiting",
+      "Burns around mouth",
+      "Difficulty breathing",
+      "Drowsiness"
+    ],
+    "firstAid": "Call Poison Control immediately. Do NOT induce vomiting unless instructed. Gather pill bottles/containers for information.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a poison chemical bottle and an emergency phone call to Poison Control, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 21,
+    "condition": "Choking",
+    "symptoms": [
+      "Inability to talk",
+      "Difficulty breathing",
+      "Blue lips/skin",
+      "Holding neck"
+    ],
+    "firstAid": "Perform Heimlich maneuver (abdominal thrusts). If unconscious, start CPR and call emergency.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration demonstrating Heimlich maneuver abdominal thrusts on an adult, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 22,
+    "condition": "Tension Headache / Possible Migraine",
+    "symptoms": [
+      "Throbbing head pain",
+      "Sensitivity to light/sound",
+      "Neck stiffness",
+      "Dizziness"
+    ],
+    "firstAid": "Rest in a quiet, dark room. Apply a cold or warm compress to forehead. Take over-the-counter pain relievers like paracetamol (500mg) or ibuprofen.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting in a dark room with a cool compress on forehead, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 23,
+    "condition": "Fever \u2014 Possible Viral or Bacterial Infection",
+    "symptoms": [
+      "High body temperature",
+      "Chills",
+      "Shivering",
+      "Body aches",
+      "Fatigue"
+    ],
+    "firstAid": "Rest in a ventilated room. Drink plenty of fluids (water, coconut water, ORS). Take paracetamol every 6 hours. Use a damp cloth to cool forehead.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting with a damp cloth on forehead and a glass of water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 24,
+    "condition": "Common Cold / Upper Respiratory Infection",
+    "symptoms": [
+      "Runny nose",
+      "Sore throat",
+      "Congestion",
+      "Sneezing",
+      "Mild headache"
+    ],
+    "firstAid": "Stay hydrated with warm water, ginger tea, or broth. Steam inhale 2-3 times daily. Gargle with warm salt water. Use saline nasal drops.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person drinking warm ginger tea and inhaling steam, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 25,
+    "condition": "Cough \u2014 Upper Respiratory Concern",
+    "symptoms": [
+      "Dry or wet cough",
+      "Throat irritation",
+      "Mild chest congestion"
+    ],
+    "firstAid": "Sip warm liquids with honey. Steam inhale. Take cough syrup (expectorant for wet, suppressant for dry). See doctor if cough lasts > 2 weeks.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing warm liquids with honey and steam inhalation, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 26,
+    "condition": "Stomach Pain / Gastritis",
+    "symptoms": [
+      "Abdominal pain",
+      "Burning sensation in stomach",
+      "Bloating",
+      "Acid reflux"
+    ],
+    "firstAid": "Avoid solid food for a few hours. Take an antacid or omeprazole. Apply warm compress to abdomen. Eat light, bland foods (rice, toast).",
+    "severity": "Medium",
+    "doctorType": "Gastroenterologist",
+    "imagePrompt": "Medical first aid illustration showing a warm compress applied to the abdomen, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 27,
+    "condition": "Nausea and Vomiting",
+    "symptoms": [
+      "Nausea",
+      "Vomiting",
+      "Inability to keep food down",
+      "Weakness"
+    ],
+    "firstAid": "Sip small amounts of water, ORS, or coconut water. Take ondansetron if prescribed. Avoid dairy, oily, or spicy foods.",
+    "severity": "Medium",
+    "doctorType": "Gastroenterologist",
+    "imagePrompt": "Medical first aid illustration showing a person sipping ORS solution and resting, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 28,
+    "condition": "Diarrhea",
+    "symptoms": [
+      "Loose or watery stools",
+      "Abdominal cramps",
+      "Dehydration risk",
+      "Weakness"
+    ],
+    "firstAid": "Drink ORS solution after every loose motion to prevent dehydration. Eat bananas, rice, applesauce, toast (BRAT diet). Avoid dairy and caffeine.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing ORS drink packets and a glass of water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 29,
+    "condition": "Skin Rash / Allergic Dermatitis",
+    "symptoms": [
+      "Redness",
+      "Itching",
+      "Hives",
+      "Dry/flaky skin"
+    ],
+    "firstAid": "Apply calamine lotion or hydrocortisone cream. Take cetirizine (10mg) for itching. Wear loose cotton clothes and avoid scratching.",
+    "severity": "Low",
+    "doctorType": "Dermatologist",
+    "imagePrompt": "Medical first aid illustration showing calamine lotion application on an itchy skin rash, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 30,
+    "condition": "Eye Irritation / Pink Eye",
+    "symptoms": [
+      "Red eyes",
+      "Itching",
+      "Watery discharge",
+      "Burning sensation"
+    ],
+    "firstAid": "Do not rub eyes. Flush with clean lukewarm water. Use lubricating artificial tears. Seek ophthalmologist if vision is blurry or painful.",
+    "severity": "Low",
+    "doctorType": "Ophthalmologist",
+    "imagePrompt": "Medical first aid illustration showing flushing a red eye with clean water streams, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 31,
+    "condition": "Blood Sugar Concern (Diabetes)",
+    "symptoms": [
+      "Extreme thirst",
+      "Frequent urination",
+      "Shaking",
+      "Sweating",
+      "Confusion"
+    ],
+    "firstAid": "If low sugar (<70 mg/dL): Consume 15g fast sugar (juice, sugar water, candy). If high (>250 mg/dL): Drink water, take insulin if prescribed.",
+    "severity": "Medium",
+    "doctorType": "Endocrinologist",
+    "imagePrompt": "Medical first aid illustration showing a glass of fruit juice and candies for low blood sugar, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 32,
+    "condition": "Blood Pressure Concern",
+    "symptoms": [
+      "Dizziness",
+      "Headache",
+      "Blurred vision",
+      "Palpitations"
+    ],
+    "firstAid": "Sit down immediately and rest. Take deep, slow breaths. Avoid salt and caffeine. If BP is extremely high (>180/120) with chest pain, call 112.",
+    "severity": "Medium",
+    "doctorType": "Cardiologist",
+    "imagePrompt": "Medical first aid illustration showing a person resting and breathing deeply with a blood pressure monitor, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 33,
+    "condition": "Back Pain \u2014 Musculoskeletal",
+    "symptoms": [
+      "Lower back pain",
+      "Muscle stiffness",
+      "Difficulty bending"
+    ],
+    "firstAid": "Apply ice pack for first 48 hours, then switch to heat. Take ibuprofen for pain/inflammation. Lie flat on a firm mattress.",
+    "severity": "Low",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing an ice pack applied to the lower back while lying flat, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 34,
+    "condition": "Toothache",
+    "symptoms": [
+      "Severe tooth pain",
+      "Jaw swelling",
+      "Sensitivity to hot or cold"
+    ],
+    "firstAid": "Rinse mouth with warm salt water. Apply clove oil on cotton to the tooth. Take ibuprofen for pain. See a dentist.",
+    "severity": "Low",
+    "doctorType": "Dentist",
+    "imagePrompt": "Medical first aid illustration showing warm salt water rinse and clove oil application, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 35,
+    "condition": "First-degree Burn (Left Hand)",
+    "symptoms": [
+      "Redness",
+      "Pain in left hand",
+      "Minor swelling"
+    ],
+    "firstAid": "Cool the burn under cool (not cold) running water for 10-15 minutes. Apply aloe vera.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing cooling a minor left hand burn under clean running water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 36,
+    "condition": "Second-degree Burn (Left Arm)",
+    "symptoms": [
+      "Blisters",
+      "Deep redness",
+      "Pain in left arm",
+      "Swelling"
+    ],
+    "firstAid": "Cool the burn. Do not break blisters. Loosely cover with a sterile, non-stick bandage.",
+    "severity": "Medium",
+    "doctorType": "Dermatologist",
+    "imagePrompt": "Medical first aid illustration showing a sterile non-stick bandage loosely covered over a left arm burn, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 37,
+    "condition": "Third-degree Burn (Left Leg)",
+    "symptoms": [
+      "Charred skin",
+      "White/leathery skin",
+      "Numbness"
+    ],
+    "firstAid": "Call emergency immediately. Do not remove stuck clothing. Cover loosely with sterile cloth.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing emergency rescue blankets and sterile dressing for a severe left leg burn, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 38,
+    "condition": "Sprained Ankle (Left Foot)",
+    "symptoms": [
+      "Swelling",
+      "Pain in left foot",
+      "Bruising",
+      "Inability to bear weight"
+    ],
+    "firstAid": "Rest, Ice, Compression, Elevation (R.I.C.E.). Avoid putting weight on it.",
+    "severity": "Low",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing rest, ice, compression, and elevation (RICE) for a sprained ankle, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 39,
+    "condition": "Broken Arm (Left Head)",
+    "symptoms": [
+      "Severe pain in left head",
+      "Deformity",
+      "Swelling",
+      "Inability to move"
+    ],
+    "firstAid": "Immobilize the arm with a splint or sling. Apply ice pack wrapped in cloth. Seek medical help.",
+    "severity": "High",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing immobilization of an injured arm using a splint and sling, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 40,
+    "condition": "Broken Leg (Left Face)",
+    "symptoms": [
+      "Severe pain in left face",
+      "Deformity",
+      "Swelling",
+      "Inability to stand or bear weight"
+    ],
+    "firstAid": "Immobilize the leg using splints. Keep completely still. Call emergency for transport.",
+    "severity": "High",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing immobilization of an injured leg using leg splints, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 41,
+    "condition": "Heart Attack (Left Chest)",
+    "symptoms": [
+      "Chest pain in left chest",
+      "Shortness of breath",
+      "Cold sweat",
+      "Nausea",
+      "Pain in arm/jaw in left chest"
+    ],
+    "firstAid": "Call ambulance immediately. Have the person sit down, rest, and keep calm. Loosen tight clothing. If conscious and not allergic, give aspirin.",
+    "severity": "Critical",
+    "doctorType": "Cardiologist",
+    "imagePrompt": "Medical first aid illustration showing a person with chest pain sitting down, loosening collar, and chewing an aspirin tablet, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 42,
+    "condition": "Stroke (Left Back)",
+    "symptoms": [
+      "Face drooping",
+      "Arm weakness",
+      "Speech difficulty",
+      "Sudden numbness"
+    ],
+    "firstAid": "F.A.S.T. (Face, Arms, Speech, Time). Call emergency immediately. Note the time symptoms started.",
+    "severity": "Critical",
+    "doctorType": "Neurologist",
+    "imagePrompt": "Medical stroke assessment infographic demonstrating Face drooping, Arm weakness, and Speech difficulty checks, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 43,
+    "condition": "Asthma Attack (Left Shoulder)",
+    "symptoms": [
+      "Severe shortness of breath",
+      "Chest tightness",
+      "Wheezing",
+      "Coughing"
+    ],
+    "firstAid": "Sit the person upright. Help them use their inhaler (blue reliever). Call emergency if it doesn't improve in 5 minutes.",
+    "severity": "High",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person sitting upright and using a blue asthma rescue inhaler puff, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 44,
+    "condition": "Severe Allergic Reaction (Anaphylaxis) (Left Knee)",
+    "symptoms": [
+      "Swelling of face/throat",
+      "Difficulty breathing",
+      "Hives",
+      "Dizziness"
+    ],
+    "firstAid": "Administer epinephrine auto-injector (EpiPen) if available. Call emergency immediately. Lay them flat.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing administration of an epinephrine auto-injector EpiPen in the outer thigh, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 45,
+    "condition": "Mild Cut/Laceration (Right Hand)",
+    "symptoms": [
+      "Bleeding",
+      "Pain at the site in right hand"
+    ],
+    "firstAid": "Wash hands. Stop bleeding with gentle pressure. Clean with water. Apply antibiotic ointment and a bandage.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing washing hands and applying an adhesive bandage to a minor cut on right hand, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 46,
+    "condition": "Deep Cut/Laceration (Right Arm)",
+    "symptoms": [
+      "Heavy bleeding",
+      "Gaping wound",
+      "Exposed fat/muscle"
+    ],
+    "firstAid": "Apply firm, direct pressure with a clean cloth. Do not remove object if impaled. Seek emergency care.",
+    "severity": "High",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing sterile gauze applying firm direct pressure to a bleeding wound on right arm, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 47,
+    "condition": "Snake Bite (Right Leg)",
+    "symptoms": [
+      "Puncture marks",
+      "Pain in right leg",
+      "Swelling",
+      "Nausea",
+      "Breathing difficulty"
+    ],
+    "firstAid": "Keep the person calm and still. Keep the bite area below heart level. Remove tight clothing/jewelry. Do NOT suck venom or apply tourniquet. Call emergency.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a snake bite puncture wound on right leg kept immobilized below heart level, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 48,
+    "condition": "Dog Bite (Right Foot)",
+    "symptoms": [
+      "Puncture wound",
+      "Bleeding",
+      "Pain in right foot"
+    ],
+    "firstAid": "Wash wound gently with soap and water. Apply pressure to stop bleeding. Apply sterile bandage. See a doctor for rabies/tetanus evaluation.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing gentle washing of a dog bite wound on right foot with soap and water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 49,
+    "condition": "Heat Stroke (Right Head)",
+    "symptoms": [
+      "High body temperature",
+      "Hot/dry skin",
+      "Confusion",
+      "Unconsciousness"
+    ],
+    "firstAid": "Call emergency. Move to a cool place. Cool the person rapidly with water, ice packs, or wet towels. Do not give fluids to drink.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a person being cooled with wet towels and ice packs, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 50,
+    "condition": "Heat Exhaustion (Right Face)",
+    "symptoms": [
+      "Heavy sweating",
+      "Weakness",
+      "Dizziness",
+      "Nausea",
+      "Headache in right face"
+    ],
+    "firstAid": "Move to a cooler place. Loosen clothing. Sip cool water. Seek medical help if symptoms worsen or last > 1 hour.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting in a cool shadow and sipping water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 51,
+    "condition": "Hypothermia (Right Chest)",
+    "symptoms": [
+      "Shivering",
+      "Slurred speech",
+      "Slow breathing",
+      "Confusion"
+    ],
+    "firstAid": "Move gently to a warm place. Remove wet clothing. Warm the center of the body first with blankets. Give warm beverages if conscious.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a person wrapped in warm blankets sipping warm tea, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 52,
+    "condition": "Frostbite (Right Back)",
+    "symptoms": [
+      "Cold skin",
+      "Prickling feeling",
+      "Numbness",
+      "Discolored skin (white/gray/yellow)"
+    ],
+    "firstAid": "Get into a warm room. Soak in warm (not hot) water. Do not rub the affected area. Seek medical attention.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing frozen frostbitten fingers being warmed in warm water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 53,
+    "condition": "Seizure (Right Shoulder)",
+    "symptoms": [
+      "Uncontrollable jerking movements",
+      "Loss of awareness",
+      "Confusion"
+    ],
+    "firstAid": "Keep them safe from injury. Cushion their head. Loosen tight clothing around neck. Turn on side. Do NOT put anything in mouth. Time the seizure.",
+    "severity": "High",
+    "doctorType": "Neurologist",
+    "imagePrompt": "Medical first aid illustration showing a person on their side with a pillow under their head during a seizure, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 54,
+    "condition": "Poisoning (Right Knee)",
+    "symptoms": [
+      "Nausea/Vomiting",
+      "Burns around mouth",
+      "Difficulty breathing",
+      "Drowsiness"
+    ],
+    "firstAid": "Call Poison Control immediately. Do NOT induce vomiting unless instructed. Gather pill bottles/containers for information.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a poison chemical bottle and an emergency phone call to Poison Control, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 55,
+    "condition": "Choking (Upper Hand)",
+    "symptoms": [
+      "Inability to talk",
+      "Difficulty breathing",
+      "Blue lips/skin",
+      "Holding neck"
+    ],
+    "firstAid": "Perform Heimlich maneuver (abdominal thrusts). If unconscious, start CPR and call emergency.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration demonstrating Heimlich maneuver abdominal thrusts on an adult, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 56,
+    "condition": "Tension Headache / Possible Migraine (Upper Arm)",
+    "symptoms": [
+      "Throbbing head pain in upper arm",
+      "Sensitivity to light/sound",
+      "Neck stiffness",
+      "Dizziness"
+    ],
+    "firstAid": "Rest in a quiet, dark room. Apply a cold or warm compress to forehead. Take over-the-counter pain relievers like paracetamol (500mg) or ibuprofen.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting in a dark room with a cool compress on forehead, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 57,
+    "condition": "Fever \u2014 Possible Viral or Bacterial Infection (Upper Leg)",
+    "symptoms": [
+      "High body temperature",
+      "Chills",
+      "Shivering",
+      "Body aches in upper leg",
+      "Fatigue"
+    ],
+    "firstAid": "Rest in a ventilated room. Drink plenty of fluids (water, coconut water, ORS). Take paracetamol every 6 hours. Use a damp cloth to cool forehead.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting with a damp cloth on forehead and a glass of water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 58,
+    "condition": "Common Cold / Upper Respiratory Infection (Upper Foot)",
+    "symptoms": [
+      "Runny nose",
+      "Sore throat",
+      "Congestion",
+      "Sneezing",
+      "Mild headache in upper foot"
+    ],
+    "firstAid": "Stay hydrated with warm water, ginger tea, or broth. Steam inhale 2-3 times daily. Gargle with warm salt water. Use saline nasal drops.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person drinking warm ginger tea and inhaling steam, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 59,
+    "condition": "Cough \u2014 Upper Respiratory Concern (Upper Head)",
+    "symptoms": [
+      "Dry or wet cough",
+      "Throat irritation",
+      "Mild chest congestion"
+    ],
+    "firstAid": "Sip warm liquids with honey. Steam inhale. Take cough syrup (expectorant for wet, suppressant for dry). See doctor if cough lasts > 2 weeks.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing warm liquids with honey and steam inhalation, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 60,
+    "condition": "Stomach Pain / Gastritis (Upper Face)",
+    "symptoms": [
+      "Abdominal pain in upper face",
+      "Burning sensation in stomach",
+      "Bloating",
+      "Acid reflux"
+    ],
+    "firstAid": "Avoid solid food for a few hours. Take an antacid or omeprazole. Apply warm compress to abdomen. Eat light, bland foods (rice, toast).",
+    "severity": "Medium",
+    "doctorType": "Gastroenterologist",
+    "imagePrompt": "Medical first aid illustration showing a warm compress applied to the abdomen, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 61,
+    "condition": "Nausea and Vomiting (Upper Chest)",
+    "symptoms": [
+      "Nausea",
+      "Vomiting",
+      "Inability to keep food down",
+      "Weakness"
+    ],
+    "firstAid": "Sip small amounts of water, ORS, or coconut water. Take ondansetron if prescribed. Avoid dairy, oily, or spicy foods.",
+    "severity": "Medium",
+    "doctorType": "Gastroenterologist",
+    "imagePrompt": "Medical first aid illustration showing a person sipping ORS solution and resting, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 62,
+    "condition": "Diarrhea (Upper Back)",
+    "symptoms": [
+      "Loose or watery stools",
+      "Abdominal cramps",
+      "Dehydration risk",
+      "Weakness"
+    ],
+    "firstAid": "Drink ORS solution after every loose motion to prevent dehydration. Eat bananas, rice, applesauce, toast (BRAT diet). Avoid dairy and caffeine.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing ORS drink packets and a glass of water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 63,
+    "condition": "Skin Rash / Allergic Dermatitis (Upper Shoulder)",
+    "symptoms": [
+      "Redness",
+      "Itching",
+      "Hives",
+      "Dry/flaky skin"
+    ],
+    "firstAid": "Apply calamine lotion or hydrocortisone cream. Take cetirizine (10mg) for itching. Wear loose cotton clothes and avoid scratching.",
+    "severity": "Low",
+    "doctorType": "Dermatologist",
+    "imagePrompt": "Medical first aid illustration showing calamine lotion application on an itchy skin rash, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 64,
+    "condition": "Eye Irritation / Pink Eye (Upper Knee)",
+    "symptoms": [
+      "Red eyes",
+      "Itching",
+      "Watery discharge",
+      "Burning sensation"
+    ],
+    "firstAid": "Do not rub eyes. Flush with clean lukewarm water. Use lubricating artificial tears. Seek ophthalmologist if vision is blurry or painful.",
+    "severity": "Low",
+    "doctorType": "Ophthalmologist",
+    "imagePrompt": "Medical first aid illustration showing flushing a red eye with clean water streams, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 65,
+    "condition": "Blood Sugar Concern (Diabetes) (Lower Hand)",
+    "symptoms": [
+      "Extreme thirst",
+      "Frequent urination",
+      "Shaking",
+      "Sweating",
+      "Confusion"
+    ],
+    "firstAid": "If low sugar (<70 mg/dL): Consume 15g fast sugar (juice, sugar water, candy). If high (>250 mg/dL): Drink water, take insulin if prescribed.",
+    "severity": "Medium",
+    "doctorType": "Endocrinologist",
+    "imagePrompt": "Medical first aid illustration showing a glass of fruit juice and candies for low blood sugar, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 66,
+    "condition": "Blood Pressure Concern (Lower Arm)",
+    "symptoms": [
+      "Dizziness",
+      "Headache in lower arm",
+      "Blurred vision",
+      "Palpitations"
+    ],
+    "firstAid": "Sit down immediately and rest. Take deep, slow breaths. Avoid salt and caffeine. If BP is extremely high (>180/120) with chest pain, call 112.",
+    "severity": "Medium",
+    "doctorType": "Cardiologist",
+    "imagePrompt": "Medical first aid illustration showing a person resting and breathing deeply with a blood pressure monitor, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 67,
+    "condition": "Back Pain \u2014 Musculoskeletal (Lower Leg)",
+    "symptoms": [
+      "Lower back pain in lower leg",
+      "Muscle stiffness",
+      "Difficulty bending"
+    ],
+    "firstAid": "Apply ice pack for first 48 hours, then switch to heat. Take ibuprofen for pain/inflammation. Lie flat on a firm mattress.",
+    "severity": "Low",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing an ice pack applied to the lower back while lying flat, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 68,
+    "condition": "Toothache (Lower Foot)",
+    "symptoms": [
+      "Severe tooth pain in lower foot",
+      "Jaw swelling",
+      "Sensitivity to hot or cold"
+    ],
+    "firstAid": "Rinse mouth with warm salt water. Apply clove oil on cotton to the tooth. Take ibuprofen for pain. See a dentist.",
+    "severity": "Low",
+    "doctorType": "Dentist",
+    "imagePrompt": "Medical first aid illustration showing warm salt water rinse and clove oil application, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 69,
+    "condition": "First-degree Burn (Lower Head)",
+    "symptoms": [
+      "Redness",
+      "Pain in lower head",
+      "Minor swelling"
+    ],
+    "firstAid": "Cool the burn under cool (not cold) running water for 10-15 minutes. Apply aloe vera.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing cooling a minor lower head burn under clean running water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 70,
+    "condition": "Second-degree Burn (Lower Face)",
+    "symptoms": [
+      "Blisters",
+      "Deep redness",
+      "Pain in lower face",
+      "Swelling"
+    ],
+    "firstAid": "Cool the burn. Do not break blisters. Loosely cover with a sterile, non-stick bandage.",
+    "severity": "Medium",
+    "doctorType": "Dermatologist",
+    "imagePrompt": "Medical first aid illustration showing a sterile non-stick bandage loosely covered over a lower face burn, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 71,
+    "condition": "Third-degree Burn (Lower Chest)",
+    "symptoms": [
+      "Charred skin",
+      "White/leathery skin",
+      "Numbness"
+    ],
+    "firstAid": "Call emergency immediately. Do not remove stuck clothing. Cover loosely with sterile cloth.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing emergency rescue blankets and sterile dressing for a severe lower chest burn, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 72,
+    "condition": "Sprained Ankle (Lower Back)",
+    "symptoms": [
+      "Swelling",
+      "Pain in lower back",
+      "Bruising",
+      "Inability to bear weight"
+    ],
+    "firstAid": "Rest, Ice, Compression, Elevation (R.I.C.E.). Avoid putting weight on it.",
+    "severity": "Low",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing rest, ice, compression, and elevation (RICE) for a sprained ankle, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 73,
+    "condition": "Broken Arm (Lower Shoulder)",
+    "symptoms": [
+      "Severe pain in lower shoulder",
+      "Deformity",
+      "Swelling",
+      "Inability to move"
+    ],
+    "firstAid": "Immobilize the arm with a splint or sling. Apply ice pack wrapped in cloth. Seek medical help.",
+    "severity": "High",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing immobilization of an injured arm using a splint and sling, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 74,
+    "condition": "Broken Leg (Lower Knee)",
+    "symptoms": [
+      "Severe pain in lower knee",
+      "Deformity",
+      "Swelling",
+      "Inability to stand or bear weight"
+    ],
+    "firstAid": "Immobilize the leg using splints. Keep completely still. Call emergency for transport.",
+    "severity": "High",
+    "doctorType": "Orthopedic",
+    "imagePrompt": "Medical first aid illustration showing immobilization of an injured leg using leg splints, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 75,
+    "condition": "Heart Attack (Inner Hand)",
+    "symptoms": [
+      "Chest pain in inner hand",
+      "Shortness of breath",
+      "Cold sweat",
+      "Nausea",
+      "Pain in arm/jaw in inner hand"
+    ],
+    "firstAid": "Call ambulance immediately. Have the person sit down, rest, and keep calm. Loosen tight clothing. If conscious and not allergic, give aspirin.",
+    "severity": "Critical",
+    "doctorType": "Cardiologist",
+    "imagePrompt": "Medical first aid illustration showing a person with chest pain sitting down, loosening collar, and chewing an aspirin tablet, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 76,
+    "condition": "Stroke (Inner Arm)",
+    "symptoms": [
+      "Face drooping",
+      "Arm weakness",
+      "Speech difficulty",
+      "Sudden numbness"
+    ],
+    "firstAid": "F.A.S.T. (Face, Arms, Speech, Time). Call emergency immediately. Note the time symptoms started.",
+    "severity": "Critical",
+    "doctorType": "Neurologist",
+    "imagePrompt": "Medical stroke assessment infographic demonstrating Face drooping, Arm weakness, and Speech difficulty checks, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 77,
+    "condition": "Asthma Attack (Inner Leg)",
+    "symptoms": [
+      "Severe shortness of breath",
+      "Chest tightness",
+      "Wheezing",
+      "Coughing"
+    ],
+    "firstAid": "Sit the person upright. Help them use their inhaler (blue reliever). Call emergency if it doesn't improve in 5 minutes.",
+    "severity": "High",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person sitting upright and using a blue asthma rescue inhaler puff, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 78,
+    "condition": "Severe Allergic Reaction (Anaphylaxis) (Inner Foot)",
+    "symptoms": [
+      "Swelling of face/throat",
+      "Difficulty breathing",
+      "Hives",
+      "Dizziness"
+    ],
+    "firstAid": "Administer epinephrine auto-injector (EpiPen) if available. Call emergency immediately. Lay them flat.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing administration of an epinephrine auto-injector EpiPen in the outer thigh, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 79,
+    "condition": "Mild Cut/Laceration (Inner Head)",
+    "symptoms": [
+      "Bleeding",
+      "Pain at the site in inner head"
+    ],
+    "firstAid": "Wash hands. Stop bleeding with gentle pressure. Clean with water. Apply antibiotic ointment and a bandage.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing washing hands and applying an adhesive bandage to a minor cut on inner head, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 80,
+    "condition": "Deep Cut/Laceration (Inner Face)",
+    "symptoms": [
+      "Heavy bleeding",
+      "Gaping wound",
+      "Exposed fat/muscle"
+    ],
+    "firstAid": "Apply firm, direct pressure with a clean cloth. Do not remove object if impaled. Seek emergency care.",
+    "severity": "High",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing sterile gauze applying firm direct pressure to a bleeding wound on inner face, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 81,
+    "condition": "Snake Bite (Inner Chest)",
+    "symptoms": [
+      "Puncture marks",
+      "Pain in inner chest",
+      "Swelling",
+      "Nausea",
+      "Breathing difficulty"
+    ],
+    "firstAid": "Keep the person calm and still. Keep the bite area below heart level. Remove tight clothing/jewelry. Do NOT suck venom or apply tourniquet. Call emergency.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a snake bite puncture wound on inner chest kept immobilized below heart level, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 82,
+    "condition": "Dog Bite (Inner Back)",
+    "symptoms": [
+      "Puncture wound",
+      "Bleeding",
+      "Pain in inner back"
+    ],
+    "firstAid": "Wash wound gently with soap and water. Apply pressure to stop bleeding. Apply sterile bandage. See a doctor for rabies/tetanus evaluation.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing gentle washing of a dog bite wound on inner back with soap and water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 83,
+    "condition": "Heat Stroke (Inner Shoulder)",
+    "symptoms": [
+      "High body temperature",
+      "Hot/dry skin",
+      "Confusion",
+      "Unconsciousness"
+    ],
+    "firstAid": "Call emergency. Move to a cool place. Cool the person rapidly with water, ice packs, or wet towels. Do not give fluids to drink.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a person being cooled with wet towels and ice packs, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 84,
+    "condition": "Heat Exhaustion (Inner Knee)",
+    "symptoms": [
+      "Heavy sweating",
+      "Weakness",
+      "Dizziness",
+      "Nausea",
+      "Headache in inner knee"
+    ],
+    "firstAid": "Move to a cooler place. Loosen clothing. Sip cool water. Seek medical help if symptoms worsen or last > 1 hour.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting in a cool shadow and sipping water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 85,
+    "condition": "Hypothermia (Outer Hand)",
+    "symptoms": [
+      "Shivering",
+      "Slurred speech",
+      "Slow breathing",
+      "Confusion"
+    ],
+    "firstAid": "Move gently to a warm place. Remove wet clothing. Warm the center of the body first with blankets. Give warm beverages if conscious.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a person wrapped in warm blankets sipping warm tea, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 86,
+    "condition": "Frostbite (Outer Arm)",
+    "symptoms": [
+      "Cold skin",
+      "Prickling feeling",
+      "Numbness",
+      "Discolored skin (white/gray/yellow)"
+    ],
+    "firstAid": "Get into a warm room. Soak in warm (not hot) water. Do not rub the affected area. Seek medical attention.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing frozen frostbitten fingers being warmed in warm water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 87,
+    "condition": "Seizure (Outer Leg)",
+    "symptoms": [
+      "Uncontrollable jerking movements",
+      "Loss of awareness",
+      "Confusion"
+    ],
+    "firstAid": "Keep them safe from injury. Cushion their head. Loosen tight clothing around neck. Turn on side. Do NOT put anything in mouth. Time the seizure.",
+    "severity": "High",
+    "doctorType": "Neurologist",
+    "imagePrompt": "Medical first aid illustration showing a person on their side with a pillow under their head during a seizure, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 88,
+    "condition": "Poisoning (Outer Foot)",
+    "symptoms": [
+      "Nausea/Vomiting",
+      "Burns around mouth",
+      "Difficulty breathing",
+      "Drowsiness"
+    ],
+    "firstAid": "Call Poison Control immediately. Do NOT induce vomiting unless instructed. Gather pill bottles/containers for information.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration showing a poison chemical bottle and an emergency phone call to Poison Control, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 89,
+    "condition": "Choking (Outer Head)",
+    "symptoms": [
+      "Inability to talk",
+      "Difficulty breathing",
+      "Blue lips/skin",
+      "Holding neck"
+    ],
+    "firstAid": "Perform Heimlich maneuver (abdominal thrusts). If unconscious, start CPR and call emergency.",
+    "severity": "Critical",
+    "doctorType": "Emergency Medicine",
+    "imagePrompt": "Medical first aid illustration demonstrating Heimlich maneuver abdominal thrusts on an adult, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 90,
+    "condition": "Tension Headache / Possible Migraine (Outer Face)",
+    "symptoms": [
+      "Throbbing head pain in outer face",
+      "Sensitivity to light/sound",
+      "Neck stiffness",
+      "Dizziness"
+    ],
+    "firstAid": "Rest in a quiet, dark room. Apply a cold or warm compress to forehead. Take over-the-counter pain relievers like paracetamol (500mg) or ibuprofen.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting in a dark room with a cool compress on forehead, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 91,
+    "condition": "Fever \u2014 Possible Viral or Bacterial Infection (Outer Chest)",
+    "symptoms": [
+      "High body temperature",
+      "Chills",
+      "Shivering",
+      "Body aches in outer chest",
+      "Fatigue"
+    ],
+    "firstAid": "Rest in a ventilated room. Drink plenty of fluids (water, coconut water, ORS). Take paracetamol every 6 hours. Use a damp cloth to cool forehead.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person resting with a damp cloth on forehead and a glass of water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 92,
+    "condition": "Common Cold / Upper Respiratory Infection (Outer Back)",
+    "symptoms": [
+      "Runny nose",
+      "Sore throat",
+      "Congestion",
+      "Sneezing",
+      "Mild headache in outer back"
+    ],
+    "firstAid": "Stay hydrated with warm water, ginger tea, or broth. Steam inhale 2-3 times daily. Gargle with warm salt water. Use saline nasal drops.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing a person drinking warm ginger tea and inhaling steam, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 93,
+    "condition": "Cough \u2014 Upper Respiratory Concern (Outer Shoulder)",
+    "symptoms": [
+      "Dry or wet cough",
+      "Throat irritation",
+      "Mild chest congestion"
+    ],
+    "firstAid": "Sip warm liquids with honey. Steam inhale. Take cough syrup (expectorant for wet, suppressant for dry). See doctor if cough lasts > 2 weeks.",
+    "severity": "Low",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing warm liquids with honey and steam inhalation, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 94,
+    "condition": "Stomach Pain / Gastritis (Outer Knee)",
+    "symptoms": [
+      "Abdominal pain in outer knee",
+      "Burning sensation in stomach",
+      "Bloating",
+      "Acid reflux"
+    ],
+    "firstAid": "Avoid solid food for a few hours. Take an antacid or omeprazole. Apply warm compress to abdomen. Eat light, bland foods (rice, toast).",
+    "severity": "Medium",
+    "doctorType": "Gastroenterologist",
+    "imagePrompt": "Medical first aid illustration showing a warm compress applied to the abdomen, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 95,
+    "condition": "Nausea and Vomiting (Side Hand)",
+    "symptoms": [
+      "Nausea",
+      "Vomiting",
+      "Inability to keep food down",
+      "Weakness"
+    ],
+    "firstAid": "Sip small amounts of water, ORS, or coconut water. Take ondansetron if prescribed. Avoid dairy, oily, or spicy foods.",
+    "severity": "Medium",
+    "doctorType": "Gastroenterologist",
+    "imagePrompt": "Medical first aid illustration showing a person sipping ORS solution and resting, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 96,
+    "condition": "Diarrhea (Side Arm)",
+    "symptoms": [
+      "Loose or watery stools",
+      "Abdominal cramps",
+      "Dehydration risk",
+      "Weakness"
+    ],
+    "firstAid": "Drink ORS solution after every loose motion to prevent dehydration. Eat bananas, rice, applesauce, toast (BRAT diet). Avoid dairy and caffeine.",
+    "severity": "Medium",
+    "doctorType": "General Physician",
+    "imagePrompt": "Medical first aid illustration showing ORS drink packets and a glass of water, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 97,
+    "condition": "Skin Rash / Allergic Dermatitis (Side Leg)",
+    "symptoms": [
+      "Redness",
+      "Itching",
+      "Hives",
+      "Dry/flaky skin"
+    ],
+    "firstAid": "Apply calamine lotion or hydrocortisone cream. Take cetirizine (10mg) for itching. Wear loose cotton clothes and avoid scratching.",
+    "severity": "Low",
+    "doctorType": "Dermatologist",
+    "imagePrompt": "Medical first aid illustration showing calamine lotion application on an itchy skin rash, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 98,
+    "condition": "Eye Irritation / Pink Eye (Side Foot)",
+    "symptoms": [
+      "Red eyes",
+      "Itching",
+      "Watery discharge",
+      "Burning sensation"
+    ],
+    "firstAid": "Do not rub eyes. Flush with clean lukewarm water. Use lubricating artificial tears. Seek ophthalmologist if vision is blurry or painful.",
+    "severity": "Low",
+    "doctorType": "Ophthalmologist",
+    "imagePrompt": "Medical first aid illustration showing flushing a red eye with clean water streams, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 99,
+    "condition": "Blood Sugar Concern (Diabetes) (Side Head)",
+    "symptoms": [
+      "Extreme thirst",
+      "Frequent urination",
+      "Shaking",
+      "Sweating",
+      "Confusion"
+    ],
+    "firstAid": "If low sugar (<70 mg/dL): Consume 15g fast sugar (juice, sugar water, candy). If high (>250 mg/dL): Drink water, take insulin if prescribed.",
+    "severity": "Medium",
+    "doctorType": "Endocrinologist",
+    "imagePrompt": "Medical first aid illustration showing a glass of fruit juice and candies for low blood sugar, flat vector style, dark slate blue background"
+  },
+  {
+    "id": 100,
+    "condition": "Blood Pressure Concern (Side Face)",
+    "symptoms": [
+      "Dizziness",
+      "Headache in side face",
+      "Blurred vision",
+      "Palpitations"
+    ],
+    "firstAid": "Sit down immediately and rest. Take deep, slow breaths. Avoid salt and caffeine. If BP is extremely high (>180/120) with chest pain, call 112.",
+    "severity": "Medium",
+    "doctorType": "Cardiologist",
+    "imagePrompt": "Medical first aid illustration showing a person resting and breathing deeply with a blood pressure monitor, flat vector style, dark slate blue background"
+  }
+]

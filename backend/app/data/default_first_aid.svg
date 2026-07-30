@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%" style="background-color:#0b1329;">
+  <!-- Inner glowing circle -->
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#1e293b" stroke-width="4"/>
+  <circle cx="60" cy="60" r="42" fill="none" stroke="#3b82f6" stroke-width="2" stroke-dasharray="4 4" opacity="0.4"/>
+  <circle cx="60" cy="60" r="32" fill="none" stroke="#10b981" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Medical First Aid Shield -->
+  <path d="M60,25 C75,25 82,30 82,30 C82,30 82,65 60,85 C38,65 38,30 38,30 C38,30 45,25 60,25 Z" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
+  
+  <!-- Red Cross -->
+  <rect x="56" y="40" width="8" height="24" rx="2" fill="#ef4444"/>
+  <rect x="48" y="48" width="24" height="8" rx="2" fill="#ef4444"/>
+  
+  <!-- Heartbeats -->
+  <path d="M35,98 L48,98 L52,88 L56,108 L60,94 L64,102 L68,98 L85,98" fill="none" stroke="#3b82f6" stroke-width="2" opacity="0.8"/>
+</svg>
