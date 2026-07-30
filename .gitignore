@@ -17,3 +17,5 @@ ENV/
 node_modules/
 dist/
 .DS_Store
+backend/app/data/image_cache/
+
